@@ -1,9 +1,9 @@
 
-## Love is in the Schedule
+# Love is in the Schedule
 
 This project will entail the integration of a backend database and a front end calendar in order to help digitalize the local business: Love is in the Hair.
 
-# Table of Contents
+## Table of Contents
 
 # FAQ
 
@@ -15,6 +15,6 @@ This project will entail the integration of a backend database and a front end c
 
 > Refer to the contribution section.
 
-# Contribution
+## Contribution
 
-# Known Bugs
+## Known Bugs
