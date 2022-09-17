@@ -1,12 +1,20 @@
-# Love is in the Schedule
+
+## Love is in the Schedule
+
 This project will entail the integration of a backend database and a front end calendar in order to help digitalize the local business: Love is in the Hair.
 
-Change Log Timeline:
+# Table of Contents
 
+# FAQ
 
-Sept 15/22 - Day 1:
-    Found online React calendar that could work for implementation
+* What is this for?
 
-Sept 14/22 - Day 0:
-    Organized and Scheduled the development process and goalposts for each feature
-    Emailed Love is in the Hair to request permission to move forward with the project
+> This project that I came up with at around August 2022 entails the development of a scheduling system for the Love is in the Hair local business.
+
+* How can I participate?
+
+> Refer to the contribution section.
+
+# Contribution
+
+# Known Bugs
