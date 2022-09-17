@@ -5,7 +5,7 @@ This project will entail the integration of a backend database and a front end c
 
 ## Table of Contents
 
-# FAQ
+## FAQ
 
 * What is this for?
 
