@@ -18,12 +18,25 @@ This project will entail the integration of a backend database and a front end c
 
 * What is this for?
 
-> This project that I came up with at around August 2022 which entails the development of a scheduling system for the Love is in the Hair local business. Through this project my partner and I will be able to utilize React.js, JavaScript, MySQL and website integration functions. 
+> This project that I came up with at around August 2022 which entails the development of a scheduling system for the Love is in the Hair local business. Through this project, my partner and I will be able to utilize React.js, JavaScript, MySQL and website integration functions. 
 
 * How can I participate?
 
 > Refer to the contribution section.
 
+## Planned Features
+
+> * Develop the frontend for PC and Mobile use
+> * Create a scaling feature for different sized screens for compatibility
+> * Integrate React frontend with MySQL database for data reading and usage
+> * Limit as many possible entrances for SQL injection and anti-DDOS measures
+> * Create a session cancellation feature
+> * Provide both a notification system for the owners and also veto-control if they are unable to work temporarily
+
 ## Contribution
 
+* Work in Progress
+
 ## Known Bugs
+
+* None so far (Wow)
