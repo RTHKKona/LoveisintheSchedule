@@ -1,7 +1,7 @@
 
 # Love is in the Schedule
 
-This project will entail the integration of a backend database and a front end calendar in order to help digitalize the local business: Love is in the Hair.
+This project will entail the integration of a backend database and a front end calendar in order to help digitalize the local business: Love is in the Hair. Through using React.js, JavaScript, MySQL, CSS and HTML, this project will showcase applicable skills for websites' front-end and some backend.
 
 ## Table of Contents
 
