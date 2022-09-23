@@ -5,6 +5,12 @@ This project will entail the integration of a backend database and a front end c
 
 ## Table of Contents
 
+  * [License](#license)
+  * [FAQ](#FAQ)
+  * [Planned Features](#planned-features)
+  * [Contribution](#Contribution)
+  * [Known Bugs](#known-bugs)
+
 ## FAQ
 
 * What is this for?
