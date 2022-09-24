@@ -8,6 +8,7 @@ This project will entail the integration of a backend database and a front end c
   * [License](#license)
   * [FAQ](#FAQ)
   * [Planned Features](#planned-features)
+  * [Release History](#release-history)
   * [Contribution](#Contribution)
   * [Known Bugs](#known-bugs)
 
