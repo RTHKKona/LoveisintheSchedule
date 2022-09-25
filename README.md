@@ -32,6 +32,7 @@
 > The current plan is a React.js-based frontend to handle the UI/UX while connected to the MySQL backend. In addition, it is likely that CSS and HTML will be used for animating features on the LiiH website as well.
 >
 > (TL;DR: React.js, MySQL, CSS, HTML, Slack)
+
 ## Planned Features
 
 > * Develop the frontend for PC and Mobile use
