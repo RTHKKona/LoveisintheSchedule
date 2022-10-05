@@ -52,6 +52,15 @@
 
 * Work in Progress
 
+### Contributors
+<a href="https://github.com/RTHKKona/LoveisintheSchedule/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RTHKKona/LoveisintheSchedule" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## Known Bugs
 
 * None so far (Wow)
+
+
